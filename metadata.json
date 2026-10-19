@@ -1,0 +1,6 @@
+{
+  "name": "NCBI Portal & Search Engine Replica",
+  "description": "National Center for Biotechnology Information (NCBI) portal replica with homepage and interactive search results for DNA, PubMed, Gene, and more.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
